@@ -3,7 +3,7 @@
 
 - **Online Játék Szerverek:** A közösség fő témája a Minecraft szerverről szól, viszont ezeken kívül lehet számítani egyéb online játék szerverekre is, ezt majd leginkább a játékosok fogják eldőnteni.
 
-
+- **Weboldalak: ** Próbálunk minél egyedibb és stílusosabb weboldalakat használni, nem használunk egy előre elkészített sablont. A weboldalak magukba foglalják a *közösségi oldalainkat*, *webáruházainkat*, *információs oldalak*, *stb...*
 <!--
 
 **Here are some ideas to get you started:**
