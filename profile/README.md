@@ -1,4 +1,7 @@
-Üdvözlünk minden kedves látogatót! Ez a szervezet elsősorban a magyar fejlesztő csapatnak készült egy kis útbaigazítás keretén belül. Valószínüleg a **Crystal Community** -ról elsősorban a minecraft szerverünk jut eszetekbe, viszont valójában magába foglalja az egész közösséget
+# Crystal Community
+Üdvözlünk minden kedves látogatót! Ez a szervezet elsősorban a magyar fejlesztő csapatnak készült egy kis útbaigazítás keretén belül. Valószínüleg a **Crystal Community** -ról elsősorban a minecraft szerverünk jut eszetekbe, viszont valójában magába foglalja az egész közösséget. Hogy pontosan miket is foglal magába ez a **__közösség__**?
+
+- **Online Játék Szerverek:** A közösség fő témája a Minecraft szerverről szól, viszont ezeken kívül lehet számítani egyéb online játék szerverekre is, ezt majd leginkább a játékosok fogják eldőnteni.
 
 
 <!--
