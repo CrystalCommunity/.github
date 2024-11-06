@@ -14,11 +14,13 @@ Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kö
 
 **Jelenlegi projektek:**
 🌐 - [Minecraft Szerver WebShop](https://idk.hu)
+
 🧱 - [Minecraft Szervereink](https://idk.hu)
+
 📱 - [Közösségi médiák - Hírdetések](https://idk.hu)
 
-+ [Csatlakozz a Discord - dev szerverünkre!]
-+ [Látogass el a weboldalunkra!]
++ [Csatlakozz a Discord - dev szerverünkre!](https://)
++ [Látogass el a weboldalunkra!](https://)
 <!--
 
 **Here are some ideas to get you started:**
