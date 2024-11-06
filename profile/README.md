@@ -5,14 +5,20 @@
 
 - **Weboldalak:** Próbálunk minél egyedibb és stílusosabb weboldalakat használni, nem használunk egy előre elkészített sablont. A weboldalak magukba foglalják a *közösségi oldalainkat*, *webáruházainkat*, *információs oldalak*, *stb...*
 
-- **E-Sport csapatunk: **  (Niko Posa feladata)
+- **E-Sport csapatunk:**  (Niko Posa feladata)
 
 - **Csapat és munkatársak:** A közösségeb belül nagy hangsúlyt fektetünk arra, hogy egy baráti és családias környezetben tudjon mindenki dolgozni. Épp ezért nagyon fontos hogy tisztelettudóak és informáltak legyetek és ami a legfontosabb, hogy érezzétek jól magatokat!
 
-##Útiterv  🛣️
+## Útiterv  🛣️
 Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kövesse az ő feladatában tevékenykedő csapatvezető utasításait.
-Jelenlegi projektek:
---a--
+
+**Jelenlegi projektek:**
+🌐 - [Minecraft Szerver WebShop](https://idk.hu)
+🧱 - [Minecraft Szervereink](https://idk.hu)
+📱 - [Közösségi médiák - Hírdetések](https://idk.hu)
+
++ [Csatlakozz a Discord - dev szerverünkre!]
++ [Látogass el a weboldalunkra!]
 <!--
 
 **Here are some ideas to get you started:**
