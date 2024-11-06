@@ -4,6 +4,15 @@
 - **Online Játék Szerverek:** A közösség fő témája a Minecraft szerverről szól, viszont ezeken kívül lehet számítani egyéb online játék szerverekre is, ezt majd leginkább a játékosok fogják eldőnteni.
 
 - **Weboldalak:** Próbálunk minél egyedibb és stílusosabb weboldalakat használni, nem használunk egy előre elkészített sablont. A weboldalak magukba foglalják a *közösségi oldalainkat*, *webáruházainkat*, *információs oldalak*, *stb...*
+
+- **E-Sport csapatunk: **  (Niko Posa feladata)
+
+- **Csapat és munkatársak:** A közösségeb belül nagy hangsúlyt fektetünk arra, hogy egy baráti és családias környezetben tudjon mindenki dolgozni. Épp ezért nagyon fontos hogy tisztelettudóak és informáltak legyetek és ami a legfontosabb, hogy érezzétek jól magatokat!
+
+##Útiterv  🛣️
+Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kövesse az ő feladatában tevékenykedő csapatvezető utasításait.
+Jelenlegi projektek:
+--a--
 <!--
 
 **Here are some ideas to get you started:**
