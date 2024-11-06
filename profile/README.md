@@ -13,6 +13,7 @@
 Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kövesse az ő feladatában tevékenykedő csapatvezető utasításait.
 
 **Jelenlegi projektek:**
+
 🌐 - [Minecraft Szerver WebShop](https://idk.hu)
 
 🧱 - [Minecraft Szervereink](https://idk.hu)
