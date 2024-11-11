@@ -14,7 +14,7 @@ Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kö
 
 **Jelenlegi projektek:**
 
-🌐 - [Minecraft Szerver WebShop](https://github.com/orgs/CrystalCommunity/projects/1/views/1)
+🌐 - [Minecraft Szerver WebShop](https://github.com/orgs/CrystalCommunity/projects/1/)
 
 🧱 - [Minecraft Szervereink](https://idk.hu)
 
