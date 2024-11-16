@@ -1,27 +1,33 @@
 # Crystal Community
-Üdvözlünk minden kedves látogatót! Ez a szervezet elsősorban a magyar fejlesztő csapatnak készült egy kis útbaigazítás keretén belül. Valószínüleg a **Crystal Community** -ról elsősorban a minecraft szerverünk jut eszetekbe, viszont valójában magába foglalja az egész közösséget. Hogy pontosan miket is foglal magába ez a **__közösség__**?
+We welcome all visitors! This organization is primarily intended for players as a guide. **Crystal Community** is probably the first thing that comes to mind of our minecraft server, but it actually includes the whole community. What exactly does this **__community__** include?
 
-- **Online Játék Szerverek:** A közösség fő témája a Minecraft szerverről szól, viszont ezeken kívül lehet számítani egyéb online játék szerverekre is, ezt majd leginkább a játékosok fogják eldőnteni.
+- **Online Game Servers:** The main topic of the community is about the Minecraft server, but in addition to these, you can expect other online game servers, which will mostly be decided by the players.
 
-- **Weboldalak:** Próbálunk minél egyedibb és stílusosabb weboldalakat használni, nem használunk egy előre elkészített sablont. A weboldalak magukba foglalják a *közösségi oldalainkat*, *webáruházainkat*, *információs oldalak*, *stb...*
+- **Websites:** We try to use as unique and stylish websites as possible, we do not use a pre-made template. Websites include our *community pages*, *online stores*, *information pages*, *etc...*
+  
+- **Our E-Sport team:** (Niko Posa's task)
 
-- **E-Sport csapatunk:**  (Niko Posa feladata)
+- **Team and colleagues:** Within the community, we place great emphasis on ensuring that everyone can work in a friendly and familiar environment. That is why it is very important to be respectful and informed and, most importantly, to have a good time!
 
-- **Csapat és munkatársak:** A közösségeb belül nagy hangsúlyt fektetünk arra, hogy egy baráti és családias környezetben tudjon mindenki dolgozni. Épp ezért nagyon fontos hogy tisztelettudóak és informáltak legyetek és ami a legfontosabb, hogy érezzétek jól magatokat!
+- **Educating** One of our plan is to help others learn how to make a minecraft JAVA plugin. It can be a really good advantages if you want to learn coding and we will help you earn a basic knowledge.
 
-## Útiterv  🛣️
-Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kövesse az ő feladatában tevékenykedő csapatvezető utasításait.
+  
+## Our plans 🛣️
+- Creating and maintaining a friendly community
+- Making more and more community minecraft servers with unique ideas
+- Teaching peoples how to code a Java plugin
 
-**Jelenlegi projektek:**
+**Links:**
 
-🌐 - [Minecraft Szerver WebShop](https://github.com/orgs/CrystalCommunity/projects/1/)
+🌐 - [Minecraft Server Webshop](https://github.com/orgs/CrystalCommunity/projects/1/)
 
-🧱 - [Minecraft Szervereink](https://github.com/CrystalCommunity/CrystalServers)
+🧱 - [Our Minecraft Servers](https://github.com/CrystalCommunity/CrystalServers)
 
-📱 - [Közösségi médiák - Hírdetések](https://idk.hu)
+📱 - [Social Communities - Advertisements](https://idk.hu)
 
-+ [Csatlakozz a Discord - dev szerverünkre!](https://)
-+ [Látogass el a weboldalunkra!](https://)
+🌐 - [Join our Discord!](https://idk.hu)
+
+
 <!--
 
 **Here are some ideas to get you started:**
