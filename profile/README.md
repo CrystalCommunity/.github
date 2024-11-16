@@ -16,7 +16,7 @@ Fontos hogy minden fejlesztő, segítő és szervező kivegye a részét és kö
 
 🌐 - [Minecraft Szerver WebShop](https://github.com/orgs/CrystalCommunity/projects/1/)
 
-🧱 - [Minecraft Szervereink](https://idk.hu)
+🧱 - [Minecraft Szervereink](https://github.com/CrystalCommunity/CrystalServers)
 
 📱 - [Közösségi médiák - Hírdetések](https://idk.hu)
 
